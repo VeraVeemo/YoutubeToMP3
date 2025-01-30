@@ -32,6 +32,6 @@ Now since PyCharm luckily automatically makes an enviornment, you're going to wa
 
 Once you have, type in "pydub" and install the top result.
  After you press install, do the same for "ffmpeg", but third result.
-  The same with "pytube" but second result.
+  The same with "pytube" but second result, and then finally "audioop-lts" first result.
 
 After it's done downloading all the files, copy and paste the code from this Respoitory.

@@ -1,6 +1,4 @@
-import os
-
-import yt_dlp
+import os, yt_dlp
 from yt_dlp import YoutubeDL
 
 # Credit to STACK OVERFLOW Alexander McFarlane

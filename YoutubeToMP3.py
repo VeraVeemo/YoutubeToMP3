@@ -2,7 +2,6 @@ import os
 
 import yt_dlp
 from yt_dlp import YoutubeDL
-from pydub import AudioSegment
 
 # Credit to STACK OVERFLOW Alexander McFarlane
 def get_download_path():
